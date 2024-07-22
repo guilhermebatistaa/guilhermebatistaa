@@ -1,7 +1,5 @@
 <h1 align="center">Olá pessoal! 👋</h1>
 
-<img src="https://e7.pngegg.com/pngimages/532/871/png-clipart-computer-programming-computer-icons-technology-algorithm-technology-electronics-computer-program.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills: Back-End / Front-End / Database</b>
 <div align="left">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
