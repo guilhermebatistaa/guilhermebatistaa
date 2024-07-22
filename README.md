@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
-<h2>Tools:</h2>
+## <img src="https://www.imagensanimadas.com/data/media/146/ferramenta-imagem-animada-0077.gif" width ="25"><b> Tools:</b>
 <div align="left">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
